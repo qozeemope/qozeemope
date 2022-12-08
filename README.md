@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/qozeemopeyemi266">
+  <a href="https://www.linkedin.com/in/qozeemopeyemi266">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.twitter.com/qozeemope">
+  <a href="https://www.twitter.com/qozeemope">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -27,7 +27,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I love to work on side projects to further my learning and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin/in/qozeemopeyemi266)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin/in/qozeemopeyemi266)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
