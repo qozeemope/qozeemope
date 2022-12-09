@@ -20,8 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’d love to work as a Junior Software Developer contributing to frontend for building web applications.
+- :telescope:I'm a Junior Frontend Developer with a passion for building beautiful and functional websites.
 
 - :seedling: I am passionate about learning new stuffs everyday.
 
@@ -38,6 +37,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="tailwindcss" width="40" height="40" />
 </div>
 ---
 
