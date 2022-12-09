@@ -22,9 +22,9 @@
 ### :man_technologist: About Me :
 - :telescope:I'm a Junior Frontend Developer with a passion for building beautiful and functional websites.
 
-- :seedling: I am passionate about learning new stuffs everyday.
+- :seedling:I'm always looking for ways to improve my skills and learn about new technologies and trends in the industry.
 
-- :zap: In my free time, I love to work on side projects to further my learning and read tech articles.
+- :zap: When I'm not coding, I love exploring the world around me and learning about new cultures and ideas.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin/in/qozeemopeyemi266)
 ---
