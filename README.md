@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope:I'm a Junior Frontend Developer with a passion for building beautiful and functional websites.
+- :telescope: I'm a Frontend Developer with a passion for building beautiful and functional websites.
 
 - :seedling:I'm always looking for ways to improve my skills and learn about new technologies and trends in the industry.
 
